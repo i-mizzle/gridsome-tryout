@@ -34,3 +34,5 @@ fields:
       format: markdown
     min: 250
   label: Post
+pages:
+- blog/test-blog-post.md
